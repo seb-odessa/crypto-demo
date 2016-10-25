@@ -1,0 +1,8 @@
+[package]
+name = "crypto-demo"
+version = "0.1.0"
+authors = ["seb-odessa <seb@ukr.net>"]
+
+[dependencies]
+rust-crypto = "^0.2"
+time = "*"
